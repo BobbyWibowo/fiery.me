@@ -1,0 +1,10 @@
+{
+  "name": "fiery.me",
+  "version": "1.0.0",
+  "author": "Bobby Wibowo",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
